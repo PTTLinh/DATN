@@ -1,0 +1,79 @@
+﻿@model K21CNT2_2110900055_DATN.Models.Product
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+
+<form asp-controller="AdminProducts" asp-action="Create" method="post" enctype="multipart/form-data">
+    <div asp-validation-summary="All" class="text-danger"></div>
+    <div class="page-header no-gutters has-tab">
+        <div class="d-md-flex m-b-15 align-items-center justify-content-between">
+            <div class="m-b-15">
+                <button type="submit" class="btn btn-primary">
+                    <i class="anticon anticon-save"></i>
+                    <span>Save</span>
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <div class="tab-content m-t-15">
+        <div class="tab-pane fade show active" id="product-edit-basic">
+            <div class="card">
+                <div class="card-body">
+
+                    <!-- Tên sản phẩm -->
+                    <div class="form-group">
+                        <label class="font-weight-semibold" for="ProductName">Tên sản phẩm</label>
+                        <input type="text" class="form-control" asp-for="ProductName" required>
+                        <span asp-validation-for="ProductName" class="text-danger"></span>
+                    </div>
+                    <!-- Mô tả sản phẩm-->
+                    <div class="form-group">
+                        <label class="font-weight-semibold" for="Description">Mô tả sản phẩm</label>
+                        <input type="text" class="form-control" asp-for="Description" required>
+                        <span asp-validation-for="Description" class="text-danger"></span>
+                    </div>
+                    <div class="row">
+                        <!-- Giá bán -->
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <label class="font-weight-semibold" for="Price">Giá bán</label>
+                                <input type="number" class="form-control" asp-for="Price" min="0" required>
+                                <span asp-validation-for="Price" class="text-danger"></span>
+                            </div>
+                        </div>
+
+                        <!-- Số lượng hàng tồn -->
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <label class="font-weight-semibold" for="UnitsInStock">Số lượng hàng tồn</label>
+                                <input type="number" class="form-control" asp-for="UnitslnStock" min="0" required>
+                                <span asp-validation-for="UnitslnStock" class="text-danger"></span>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <!-- Danh mục sản phẩm -->
+                    <div class="form-group">
+                        <label class="font-weight-semibold" for="CategoryId">Danh mục sản phẩm</label>
+                        <select class="custom-select" asp-for="CategoryId" asp-items="ViewBag.DanhMuc">
+                            <option selected disabled value="">- Chọn danh mục -</option>
+                        </select>
+                        <span asp-validation-for="CategoryId" class="text-danger"></span>
+                    </div>
+
+                    <!-- Ảnh đại diện -->
+                    <div class="form-group">
+                        <label class="font-weight-semibold" for="Image">Ảnh đại diện</label>
+                        <input type="file" class="form-control-file" asp-for="Image" accept="image/*">
+                        <span asp-validation-for="Image" class="text-danger"></span>
+                    </div>
+
+                </div> <!-- End card-body -->
+            </div> <!-- End card -->
+        </div> <!-- End tab-pane -->
+    </div> <!-- End tab-content -->
+</form>
