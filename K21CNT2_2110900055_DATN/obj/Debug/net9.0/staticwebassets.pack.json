@@ -737,8 +737,8 @@
       "PackagePath": "staticwebassets\\assets\\images\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\wwwroot\\assets\\images\\logo\\dark.png",
-      "PackagePath": "staticwebassets\\assets\\images\\logo\\dark.png"
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\wwwroot\\assets\\images\\logo\\adidas.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo\\adidas.png"
     },
     {
       "Id": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\wwwroot\\assets\\images\\megamenu\\slider\\1.jpg",
@@ -967,6 +967,262 @@
     {
       "Id": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\wwwroot\\images\\blogs\\adidas-ra-mắt-predator-25--79f2c293.jpg",
+      "PackagePath": "staticwebassets\\images\\blogs\\adidas-ra-mắt-predator-25--79f2c293.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\wwwroot\\images\\blogs\\adidas-ra-mắt-ultraboost--efcaf2c8.jpg",
+      "PackagePath": "staticwebassets\\images\\blogs\\adidas-ra-mắt-ultraboost--efcaf2c8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\wwwroot\\images\\blogs\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\images\\blogs\\blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\wwwroot\\images\\blogs\\blog-10.jpg",
+      "PackagePath": "staticwebassets\\images\\blogs\\blog-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\wwwroot\\images\\blogs\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\images\\blogs\\blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\wwwroot\\images\\blogs\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\images\\blogs\\blog-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\wwwroot\\images\\blogs\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\images\\blogs\\blog-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\wwwroot\\images\\blogs\\blog-5.jpg",
+      "PackagePath": "staticwebassets\\images\\blogs\\blog-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\wwwroot\\images\\blogs\\blog-6.jpg",
+      "PackagePath": "staticwebassets\\images\\blogs\\blog-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\wwwroot\\images\\blogs\\blog-7.jpeg",
+      "PackagePath": "staticwebassets\\images\\blogs\\blog-7.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\wwwroot\\images\\blogs\\blog-8.jpg",
+      "PackagePath": "staticwebassets\\images\\blogs\\blog-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\wwwroot\\images\\blogs\\blog-9.jpg",
+      "PackagePath": "staticwebassets\\images\\blogs\\blog-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\wwwroot\\images\\blogs\\bộ-sưu-tập-đi-bộ-đường-dài-mới-nhất--4a8129b7.jpg",
+      "PackagePath": "staticwebassets\\images\\blogs\\bộ-sưu-tập-đi-bộ-đường-dài-mới-nhất--4a8129b7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\wwwroot\\images\\blogs\\codechaos-25---giày-không-đinh-0f893a84.jpg",
+      "PackagePath": "staticwebassets\\images\\blogs\\codechaos-25---giày-không-đinh-0f893a84.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\wwwroot\\images\\blogs\\giày-cho-người-chơi-golf-adizero-zg-f7873bb9.jpg",
+      "PackagePath": "staticwebassets\\images\\blogs\\giày-cho-người-chơi-golf-adizero-zg-f7873bb9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\wwwroot\\images\\blogs\\giới-thiệu-agravic-gore-tex-b29b29d9.jpg",
+      "PackagePath": "staticwebassets\\images\\blogs\\giới-thiệu-agravic-gore-tex-b29b29d9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\wwwroot\\images\\blogs\\quả-bóng-thi-đấu-chính-thức-cho-fifa-3ad3e6fc.jpg",
+      "PackagePath": "staticwebassets\\images\\blogs\\quả-bóng-thi-đấu-chính-thức-cho-fifa-3ad3e6fc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\wwwroot\\images\\blogs\\ra-mắt-áo-đấu-odi-team-india-42315007.jpeg",
+      "PackagePath": "staticwebassets\\images\\blogs\\ra-mắt-áo-đấu-odi-team-india-42315007.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\wwwroot\\images\\blogs\\đôi-giày-chạy-bộ-mới--lightblaze-5caa09e8.jpg",
+      "PackagePath": "staticwebassets\\images\\blogs\\đôi-giày-chạy-bộ-mới--lightblaze-5caa09e8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\wwwroot\\images\\blogs\\đưa-sự-cạnh-tranh-lên-phố-94d922eb.jpg",
+      "PackagePath": "staticwebassets\\images\\blogs\\đưa-sự-cạnh-tranh-lên-phố-94d922eb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\wwwroot\\images\\products\\-áo-thun-sst-9857e48f.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\-áo-thun-sst-9857e48f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\wwwroot\\images\\products\\nam_1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\nam_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\wwwroot\\images\\products\\nam_10.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\nam_10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\wwwroot\\images\\products\\nam_2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\nam_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\wwwroot\\images\\products\\nam_3.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\nam_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\wwwroot\\images\\products\\nam_4.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\nam_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\wwwroot\\images\\products\\nam_5.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\nam_5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\wwwroot\\images\\products\\nam_6.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\nam_6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\wwwroot\\images\\products\\nam_7.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\nam_7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\wwwroot\\images\\products\\nam_8.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\nam_8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\wwwroot\\images\\products\\nam_9.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\nam_9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\wwwroot\\images\\products\\nu_1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\nu_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\wwwroot\\images\\products\\nu_10-9c2a1157.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\nu_10-9c2a1157.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\wwwroot\\images\\products\\nu_10.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\nu_10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\wwwroot\\images\\products\\nu_2-a1329dd7.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\nu_2-a1329dd7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\wwwroot\\images\\products\\nu_2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\nu_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\wwwroot\\images\\products\\nu_3-0de4bf4f.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\nu_3-0de4bf4f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\wwwroot\\images\\products\\nu_3.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\nu_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\wwwroot\\images\\products\\nu_4-6d2324e1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\nu_4-6d2324e1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\wwwroot\\images\\products\\nu_4.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\nu_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\wwwroot\\images\\products\\nu_5-c560da3a.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\nu_5-c560da3a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\wwwroot\\images\\products\\nu_5.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\nu_5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\wwwroot\\images\\products\\nu_6-d9b5ecc8.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\nu_6-d9b5ecc8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\wwwroot\\images\\products\\nu_6.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\nu_6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\wwwroot\\images\\products\\nu_7-147521d8.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\nu_7-147521d8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\wwwroot\\images\\products\\nu_7.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\nu_7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\wwwroot\\images\\products\\nu_8-66cb0d7b.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\nu_8-66cb0d7b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\wwwroot\\images\\products\\nu_8.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\nu_8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\wwwroot\\images\\products\\nu_9-5893801b.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\nu_9-5893801b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\wwwroot\\images\\products\\nu_9.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\nu_9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\wwwroot\\images\\products\\quần-jogger-jersey-b6b6baee.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\quần-jogger-jersey-b6b6baee.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\wwwroot\\images\\products\\quần-short-thể-hao--fbe3f9c2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\quần-short-thể-hao--fbe3f9c2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\wwwroot\\images\\products\\quần-short-tập-uyện-cd296b49.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\quần-short-tập-uyện-cd296b49.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\wwwroot\\images\\products\\quần-track-pant-sst-38526e45.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\quần-track-pant-sst-38526e45.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\wwwroot\\images\\products\\treem_1-305bf502.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\treem_1-305bf502.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\wwwroot\\images\\products\\treem_1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\treem_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\wwwroot\\images\\products\\treem_2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\treem_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\wwwroot\\images\\products\\áo-hoodie-khóa-kéo-3-sọc--ca5315a1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\áo-hoodie-khóa-kéo-3-sọc--ca5315a1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\wwwroot\\images\\products\\áo-khoác-cny---đảo-ngược-59d8987b.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\áo-khoác-cny---đảo-ngược-59d8987b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\wwwroot\\images\\products\\áo-khoác-rằn-ri-q1-3675bc42.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\áo-khoác-rằn-ri-q1-3675bc42.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\wwwroot\\images\\products\\áo-khoác-rằn-ri-q1-3d8b0949.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\áo-khoác-rằn-ri-q1-3d8b0949.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\wwwroot\\images\\products\\áo-polo-mercedes-46921ab6.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\áo-polo-mercedes-46921ab6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\wwwroot\\images\\products\\áo-thun-originals-670780bf.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\áo-thun-originals-670780bf.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\wwwroot\\images\\products\\áo-thun-oversized-adilenium-f6502f1c.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\áo-thun-oversized-adilenium-f6502f1c.jpg"
     },
     {
       "Id": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\wwwroot\\js\\site.js",

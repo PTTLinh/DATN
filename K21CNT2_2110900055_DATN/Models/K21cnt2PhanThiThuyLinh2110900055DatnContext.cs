@@ -39,8 +39,7 @@ public partial class K21cnt2PhanThiThuyLinh2110900055DatnContext : DbContext
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
 #warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see https://go.microsoft.com/fwlink/?LinkId=723263.
-        => optionsBuilder.UseSqlServer("Server=DESKTOP-JQHVF53; Database=K21CNT2_PhanThiThuyLinh_2110900055_DATN; Integrated Security=true; TrustServerCertificate=true;");
-
+        => optionsBuilder.UseSqlServer("Server=DESKTOP-JQHVF53; Database=K21CNT2_PhanThiThuyLinh_2110900055_DATN; Integrated Security=true; TrustServerCertificate=true;Connect Timeout=120;");
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         modelBuilder.Entity<Account>(entity =>
@@ -165,9 +164,8 @@ public partial class K21cnt2PhanThiThuyLinh2110900055DatnContext : DbContext
 
             entity.Property(e => e.ProductId).HasColumnName("Product_ID");
             entity.Property(e => e.CategoryId).HasColumnName("Category_ID");
-            entity.Property(e => e.Description).HasMaxLength(255);
             entity.Property(e => e.Image).HasMaxLength(255);
-            entity.Property(e => e.ProductName).HasMaxLength(50);
+            entity.Property(e => e.ProductName).HasMaxLength(255);
 
             entity.HasOne(d => d.Category).WithMany(p => p.Products)
                 .HasForeignKey(d => d.CategoryId)

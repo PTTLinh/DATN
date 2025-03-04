@@ -2,7 +2,7 @@
 @model PagedList.Core.IPagedList<K21CNT2_2110900055_DATN.Models.Blog>
 @{
     int CurrentPage = ViewBag.CurrentPage;
-    ViewData["Title"] = "Danh sách Blog" + CurrentPage;
+    ViewData["Title"] = "Danh sách Blog" + ViewBag.CurrentPage;
     Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
 }
 

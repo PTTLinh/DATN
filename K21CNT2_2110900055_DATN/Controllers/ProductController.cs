@@ -1,6 +1,7 @@
 ﻿using K21CNT2_2110900055_DATN.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using PagedList.Core;
 
 namespace K21CNT2_2110900055_DATN.Controllers
 {
@@ -12,19 +13,74 @@ namespace K21CNT2_2110900055_DATN.Controllers
         {
             _context = context;
         }
-
-        public IActionResult Index()
+        [Route("shop.html", Name = "ShopProduct")]
+        public IActionResult Index(int? page)
         {
-            return View();
+            try
+            {
+                var pageNumber = page == null || page <= 0 ? 1 : page.Value;
+                var pageSize = 15;
+                var IsProducts = _context.Products
+                    .AsNoTracking()
+                    .OrderBy(x => x.ProductId);
+                PagedList<Product> models = new PagedList<Product>(IsProducts, pageNumber, pageSize);
+                ViewBag.CurrentPage = pageNumber;
+                
+                return View(models);
+            }
+            catch
+            {
+                return RedirectToAction("Index", "Home");
+            }
+            
         }
+        [Route("/{id}.html", Name = "ListProduct")]
+        public IActionResult List(int id, int page = 1)
+        {
+            try
+            {
+                var pageSize = 15;
+                var danhmuc = _context.Categories.Find(id);
+                var IsProducts = _context.Products
+                    .AsNoTracking()
+                    .Where(x => x.CategoryId == id)
+                    .OrderBy(x => x.ProductId);
+                PagedList<Product> models = new PagedList<Product>(IsProducts, page, pageSize);
+                ViewBag.CurrentPage = page;
+                ViewBag.CurrentCate = danhmuc;
+                return View(models);
+
+            }
+            catch
+            {
+                return RedirectToAction("Index", "Home");
+
+            }
+            
+        }
+        [Route("/Product/{id}.html", Name = "ProductDetails")]
         public IActionResult Details(int id)
         {
-            var product = _context.Products.Include(x => x.Category).FirstOrDefault(x => x.ProductId == id);
-            if (product == null)
+            try
             {
-                return RedirectToAction("Index");
+                var product = _context.Products.Include(x => x.Category).FirstOrDefault(x => x.ProductId == id);
+                if (product == null)
+                {
+                    return RedirectToAction("Index");
+                }
+                var lsProduct = _context.Products.AsNoTracking()
+                .Where(x => x.CategoryId == product.CategoryId && x.ProductId != id )
+                .Take(4)
+                .ToList();
+                ViewBag.Sanpham = lsProduct;
+
+                return View(product);
             }
-            return View(product);
+            catch
+            {
+                return RedirectToAction("Index", "Home");
+            }
+            
         }
     }
 }

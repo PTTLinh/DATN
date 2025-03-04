@@ -7,6 +7,9 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using K21CNT2_2110900055_DATN.Models;
 using PagedList.Core;
+using AspNetCoreHero.ToastNotification.Abstractions;
+using K21CNT2_2110900055_DATN.Helper;
+using static System.Net.Mime.MediaTypeNames;
 
 namespace K21CNT2_2110900055_DATN.Areas.Admin.Controllers
 {
@@ -15,9 +18,11 @@ namespace K21CNT2_2110900055_DATN.Areas.Admin.Controllers
     {
         private readonly K21cnt2PhanThiThuyLinh2110900055DatnContext _context;
 
-        public AdminBlogsController(K21cnt2PhanThiThuyLinh2110900055DatnContext context)
+        public INotyfService _notifyService { get; }
+        public AdminBlogsController(K21cnt2PhanThiThuyLinh2110900055DatnContext context, INotyfService notifyService)
         {
             _context = context;
+            _notifyService = notifyService;
         }
 
         // GET: Admin/AdminBlogs
@@ -59,11 +64,24 @@ namespace K21CNT2_2110900055_DATN.Areas.Admin.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("BlogId,BlogName,Title,Description,Image,Author")] Blog blog)
+        public async Task<IActionResult> Create([Bind("BlogId,BlogName,Title,Description,Image,Author")] Blog blog, Microsoft.AspNetCore.Http.IFormFile fImage)
         {
             if (ModelState.IsValid)
             {
+                if (fImage != null && fImage.Length > 0)
+                {
+                    string extension = Path.GetExtension(fImage.FileName);
+                    string fileName = Path.GetFileNameWithoutExtension(fImage.FileName)
+                                     .Replace(" ", "-") + "-" + Guid.NewGuid().ToString().Substring(0, 8) + extension;
+
+                    blog.Image = await Utilities.UploadFile(fImage, "blogs", fileName.ToLower());
+                }
+                else
+                {
+                    blog.Image = "default.jpg"; // Nếu không có ảnh, đặt ảnh mặc định
+                }
                 _context.Add(blog);
+                _notifyService.Success("Tạo mới thành công");
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
@@ -91,7 +109,7 @@ namespace K21CNT2_2110900055_DATN.Areas.Admin.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("BlogId,BlogName,Title,Description,Image,Author")] Blog blog)
+        public async Task<IActionResult> Edit(int id, [Bind("BlogId,BlogName,Title,Description,Image,Author")] Blog blog, Microsoft.AspNetCore.Http.IFormFile fImage)
         {
             if (id != blog.BlogId)
             {
@@ -102,13 +120,37 @@ namespace K21CNT2_2110900055_DATN.Areas.Admin.Controllers
             {
                 try
                 {
-                    _context.Update(blog);
+                    var existingBlog= await _context.Blogs.FindAsync(id);
+                    if (existingBlog == null)
+                    {
+                        return NotFound();
+                    }
+
+                    // Nếu có file ảnh mới thì cập nhật, nếu không giữ nguyên ảnh cũ
+                    if (fImage != null && fImage.Length > 0)
+                    {
+                        string extension = Path.GetExtension(fImage.FileName);
+                        string fileName = blog.BlogName.Replace(" ", "-") + "-" + Guid.NewGuid().ToString().Substring(0, 8) + extension;
+                        existingBlog.Image = await Utilities.UploadFile(fImage, "blogs", fileName.ToLower());
+                    }
+
+                    // Cập nhật thông tin khác của sản phẩm
+                    existingBlog.BlogName = blog.BlogName;
+                    existingBlog.Title = blog.Title;
+                    existingBlog.Description = blog.Description;
+                    existingBlog.Author = blog.Author;
+   
+
+                    _context.Update(existingBlog);
                     await _context.SaveChangesAsync();
+                    _notifyService.Success("Cập nhật thành công");
                 }
+
                 catch (DbUpdateConcurrencyException)
                 {
                     if (!BlogExists(blog.BlogId))
                     {
+                        _notifyService.Error("Có lỗi xảy ra");
                         return NotFound();
                     }
                     else
@@ -151,6 +193,7 @@ namespace K21CNT2_2110900055_DATN.Areas.Admin.Controllers
             }
 
             await _context.SaveChangesAsync();
+            _notifyService.Success("Xóa sản phẩm thành công");
             return RedirectToAction(nameof(Index));
         }
 

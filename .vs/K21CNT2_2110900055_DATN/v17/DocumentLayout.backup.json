@@ -3,84 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FC17B0D2-734A-4CB4-AB0F-2F84EFE7CEDB}|K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN.csproj|c:\\users\\admin\\source\\repos\\k21cnt2_2110900055_datn\\k21cnt2_2110900055_datn\\areas\\admin\\views\\adminproducts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FC17B0D2-734A-4CB4-AB0F-2F84EFE7CEDB}|K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN.csproj|solutionrelative:k21cnt2_2110900055_datn\\areas\\admin\\views\\adminproducts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC17B0D2-734A-4CB4-AB0F-2F84EFE7CEDB}|K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN.csproj|c:\\users\\admin\\source\\repos\\k21cnt2_2110900055_datn\\k21cnt2_2110900055_datn\\areas\\admin\\views\\adminroles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FC17B0D2-734A-4CB4-AB0F-2F84EFE7CEDB}|K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN.csproj|solutionrelative:k21cnt2_2110900055_datn\\areas\\admin\\views\\adminroles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC17B0D2-734A-4CB4-AB0F-2F84EFE7CEDB}|K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN.csproj|c:\\users\\admin\\source\\repos\\k21cnt2_2110900055_datn\\k21cnt2_2110900055_datn\\areas\\admin\\views\\admincustomers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FC17B0D2-734A-4CB4-AB0F-2F84EFE7CEDB}|K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN.csproj|solutionrelative:k21cnt2_2110900055_datn\\areas\\admin\\views\\admincustomers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC17B0D2-734A-4CB4-AB0F-2F84EFE7CEDB}|K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN.csproj|c:\\users\\admin\\source\\repos\\k21cnt2_2110900055_datn\\k21cnt2_2110900055_datn\\areas\\admin\\views\\adminproducts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FC17B0D2-734A-4CB4-AB0F-2F84EFE7CEDB}|K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN.csproj|solutionrelative:k21cnt2_2110900055_datn\\areas\\admin\\views\\adminproducts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC17B0D2-734A-4CB4-AB0F-2F84EFE7CEDB}|K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN.csproj|c:\\users\\admin\\source\\repos\\k21cnt2_2110900055_datn\\k21cnt2_2110900055_datn\\areas\\admin\\views\\adminproducts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FC17B0D2-734A-4CB4-AB0F-2F84EFE7CEDB}|K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN.csproj|solutionrelative:k21cnt2_2110900055_datn\\areas\\admin\\views\\adminproducts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC17B0D2-734A-4CB4-AB0F-2F84EFE7CEDB}|K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN.csproj|c:\\users\\admin\\source\\repos\\k21cnt2_2110900055_datn\\k21cnt2_2110900055_datn\\areas\\admin\\views\\adminproducts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FC17B0D2-734A-4CB4-AB0F-2F84EFE7CEDB}|K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN.csproj|solutionrelative:k21cnt2_2110900055_datn\\areas\\admin\\views\\adminproducts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC17B0D2-734A-4CB4-AB0F-2F84EFE7CEDB}|K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN.csproj|c:\\users\\admin\\source\\repos\\k21cnt2_2110900055_datn\\k21cnt2_2110900055_datn\\areas\\admin\\views\\adminproducts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FC17B0D2-734A-4CB4-AB0F-2F84EFE7CEDB}|K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN.csproj|solutionrelative:k21cnt2_2110900055_datn\\areas\\admin\\views\\adminproducts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC17B0D2-734A-4CB4-AB0F-2F84EFE7CEDB}|K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN.csproj|c:\\users\\admin\\source\\repos\\k21cnt2_2110900055_datn\\k21cnt2_2110900055_datn\\areas\\admin\\controllers\\adminproductscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC17B0D2-734A-4CB4-AB0F-2F84EFE7CEDB}|K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN.csproj|solutionrelative:k21cnt2_2110900055_datn\\areas\\admin\\controllers\\adminproductscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC17B0D2-734A-4CB4-AB0F-2F84EFE7CEDB}|K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN.csproj|c:\\users\\admin\\source\\repos\\k21cnt2_2110900055_datn\\k21cnt2_2110900055_datn\\areas\\admin\\controllers\\admincustomerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC17B0D2-734A-4CB4-AB0F-2F84EFE7CEDB}|K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN.csproj|solutionrelative:k21cnt2_2110900055_datn\\areas\\admin\\controllers\\admincustomerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC17B0D2-734A-4CB4-AB0F-2F84EFE7CEDB}|K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN.csproj|c:\\users\\admin\\source\\repos\\k21cnt2_2110900055_datn\\k21cnt2_2110900055_datn\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC17B0D2-734A-4CB4-AB0F-2F84EFE7CEDB}|K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN.csproj|solutionrelative:k21cnt2_2110900055_datn\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FC17B0D2-734A-4CB4-AB0F-2F84EFE7CEDB}|K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN.csproj|c:\\users\\admin\\source\\repos\\k21cnt2_2110900055_datn\\k21cnt2_2110900055_datn\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FC17B0D2-734A-4CB4-AB0F-2F84EFE7CEDB}|K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN.csproj|solutionrelative:k21cnt2_2110900055_datn\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC17B0D2-734A-4CB4-AB0F-2F84EFE7CEDB}|K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN.csproj|c:\\users\\admin\\source\\repos\\k21cnt2_2110900055_datn\\k21cnt2_2110900055_datn\\areas\\admin\\controllers\\adminblogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC17B0D2-734A-4CB4-AB0F-2F84EFE7CEDB}|K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN.csproj|solutionrelative:k21cnt2_2110900055_datn\\areas\\admin\\controllers\\adminblogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FC17B0D2-734A-4CB4-AB0F-2F84EFE7CEDB}|K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN.csproj|c:\\users\\admin\\source\\repos\\k21cnt2_2110900055_datn\\k21cnt2_2110900055_datn\\views\\shared\\_footerpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC17B0D2-734A-4CB4-AB0F-2F84EFE7CEDB}|K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN.csproj|solutionrelative:k21cnt2_2110900055_datn\\views\\shared\\_footerpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC17B0D2-734A-4CB4-AB0F-2F84EFE7CEDB}|K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN.csproj|c:\\users\\admin\\source\\repos\\k21cnt2_2110900055_datn\\k21cnt2_2110900055_datn\\helper\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC17B0D2-734A-4CB4-AB0F-2F84EFE7CEDB}|K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN.csproj|solutionrelative:k21cnt2_2110900055_datn\\helper\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FC17B0D2-734A-4CB4-AB0F-2F84EFE7CEDB}|K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN.csproj|c:\\users\\admin\\source\\repos\\k21cnt2_2110900055_datn\\k21cnt2_2110900055_datn\\wwwroot\\assets\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FC17B0D2-734A-4CB4-AB0F-2F84EFE7CEDB}|K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN.csproj|solutionrelative:k21cnt2_2110900055_datn\\wwwroot\\assets\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC17B0D2-734A-4CB4-AB0F-2F84EFE7CEDB}|K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN.csproj|c:\\users\\admin\\source\\repos\\k21cnt2_2110900055_datn\\k21cnt2_2110900055_datn\\extension\\identityextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC17B0D2-734A-4CB4-AB0F-2F84EFE7CEDB}|K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN.csproj|solutionrelative:k21cnt2_2110900055_datn\\extension\\identityextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FC17B0D2-734A-4CB4-AB0F-2F84EFE7CEDB}|K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN.csproj|c:\\users\\admin\\source\\repos\\k21cnt2_2110900055_datn\\k21cnt2_2110900055_datn\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC17B0D2-734A-4CB4-AB0F-2F84EFE7CEDB}|K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN.csproj|solutionrelative:k21cnt2_2110900055_datn\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC17B0D2-734A-4CB4-AB0F-2F84EFE7CEDB}|K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN.csproj|c:\\users\\admin\\source\\repos\\k21cnt2_2110900055_datn\\k21cnt2_2110900055_datn\\extension\\hashmd5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC17B0D2-734A-4CB4-AB0F-2F84EFE7CEDB}|K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN.csproj|solutionrelative:k21cnt2_2110900055_datn\\extension\\hashmd5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FC17B0D2-734A-4CB4-AB0F-2F84EFE7CEDB}|K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN.csproj|c:\\users\\admin\\source\\repos\\k21cnt2_2110900055_datn\\k21cnt2_2110900055_datn\\views\\shared\\_headerpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC17B0D2-734A-4CB4-AB0F-2F84EFE7CEDB}|K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN.csproj|solutionrelative:k21cnt2_2110900055_datn\\views\\shared\\_headerpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC17B0D2-734A-4CB4-AB0F-2F84EFE7CEDB}|K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN.csproj|c:\\users\\admin\\source\\repos\\k21cnt2_2110900055_datn\\k21cnt2_2110900055_datn\\extension\\extension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC17B0D2-734A-4CB4-AB0F-2F84EFE7CEDB}|K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN.csproj|solutionrelative:k21cnt2_2110900055_datn\\extension\\extension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FC17B0D2-734A-4CB4-AB0F-2F84EFE7CEDB}|K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN.csproj|c:\\users\\admin\\source\\repos\\k21cnt2_2110900055_datn\\k21cnt2_2110900055_datn\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FC17B0D2-734A-4CB4-AB0F-2F84EFE7CEDB}|K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN.csproj|solutionrelative:k21cnt2_2110900055_datn\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC17B0D2-734A-4CB4-AB0F-2F84EFE7CEDB}|K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN.csproj|c:\\users\\admin\\source\\repos\\k21cnt2_2110900055_datn\\k21cnt2_2110900055_datn\\enums\\cachekeys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC17B0D2-734A-4CB4-AB0F-2F84EFE7CEDB}|K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN.csproj|solutionrelative:k21cnt2_2110900055_datn\\enums\\cachekeys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FC17B0D2-734A-4CB4-AB0F-2F84EFE7CEDB}|K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN.csproj|c:\\users\\admin\\source\\repos\\k21cnt2_2110900055_datn\\k21cnt2_2110900055_datn\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC17B0D2-734A-4CB4-AB0F-2F84EFE7CEDB}|K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN.csproj|solutionrelative:k21cnt2_2110900055_datn\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC17B0D2-734A-4CB4-AB0F-2F84EFE7CEDB}|K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN.csproj|c:\\users\\admin\\source\\repos\\k21cnt2_2110900055_datn\\k21cnt2_2110900055_datn\\areas\\admin\\views\\adminblogs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FC17B0D2-734A-4CB4-AB0F-2F84EFE7CEDB}|K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN.csproj|solutionrelative:k21cnt2_2110900055_datn\\areas\\admin\\views\\adminblogs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC17B0D2-734A-4CB4-AB0F-2F84EFE7CEDB}|K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN.csproj|c:\\users\\admin\\source\\repos\\k21cnt2_2110900055_datn\\k21cnt2_2110900055_datn\\areas\\admin\\views\\shared\\_sidenavpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FC17B0D2-734A-4CB4-AB0F-2F84EFE7CEDB}|K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN.csproj|solutionrelative:k21cnt2_2110900055_datn\\areas\\admin\\views\\shared\\_sidenavpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC17B0D2-734A-4CB4-AB0F-2F84EFE7CEDB}|K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN.csproj|c:\\users\\admin\\source\\repos\\k21cnt2_2110900055_datn\\k21cnt2_2110900055_datn\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FC17B0D2-734A-4CB4-AB0F-2F84EFE7CEDB}|K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN.csproj|solutionrelative:k21cnt2_2110900055_datn\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{FC17B0D2-734A-4CB4-AB0F-2F84EFE7CEDB}|K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN.csproj|c:\\users\\admin\\source\\repos\\k21cnt2_2110900055_datn\\k21cnt2_2110900055_datn\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC17B0D2-734A-4CB4-AB0F-2F84EFE7CEDB}|K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN.csproj|solutionrelative:k21cnt2_2110900055_datn\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -90,8 +42,21 @@
       "DocumentGroups": [
         {
           "DockedHeight": 226,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "K21CNT2_2110900055_DATN\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "K21CNT2_2110900055_DATN\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-03T14:46:23.054Z",
+              "IsPinned": true
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
@@ -110,256 +75,88 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\Areas\\Admin\\Views\\AdminRoles\\Create.cshtml",
-              "RelativeDocumentMoniker": "K21CNT2_2110900055_DATN\\Areas\\Admin\\Views\\AdminRoles\\Create.cshtml",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\Areas\\Admin\\Views\\AdminRoles\\Create.cshtml",
-              "RelativeToolTip": "K21CNT2_2110900055_DATN\\Areas\\Admin\\Views\\AdminRoles\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-27T08:14:51.923Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\Areas\\Admin\\Views\\AdminCustomers\\Index.cshtml",
-              "RelativeDocumentMoniker": "K21CNT2_2110900055_DATN\\Areas\\Admin\\Views\\AdminCustomers\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\Areas\\Admin\\Views\\AdminCustomers\\Index.cshtml",
-              "RelativeToolTip": "K21CNT2_2110900055_DATN\\Areas\\Admin\\Views\\AdminCustomers\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-27T08:14:41.794Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\Areas\\Admin\\Views\\AdminProducts\\Edit.cshtml",
-              "RelativeDocumentMoniker": "K21CNT2_2110900055_DATN\\Areas\\Admin\\Views\\AdminProducts\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\Areas\\Admin\\Views\\AdminProducts\\Edit.cshtml",
-              "RelativeToolTip": "K21CNT2_2110900055_DATN\\Areas\\Admin\\Views\\AdminProducts\\Edit.cshtml",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAACkAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-27T08:06:07.914Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\Areas\\Admin\\Views\\AdminProducts\\Details.cshtml",
-              "RelativeDocumentMoniker": "K21CNT2_2110900055_DATN\\Areas\\Admin\\Views\\AdminProducts\\Details.cshtml",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\Areas\\Admin\\Views\\AdminProducts\\Details.cshtml",
-              "RelativeToolTip": "K21CNT2_2110900055_DATN\\Areas\\Admin\\Views\\AdminProducts\\Details.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAACQAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-27T08:05:54.479Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\Areas\\Admin\\Views\\AdminProducts\\Delete.cshtml",
-              "RelativeDocumentMoniker": "K21CNT2_2110900055_DATN\\Areas\\Admin\\Views\\AdminProducts\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\Areas\\Admin\\Views\\AdminProducts\\Delete.cshtml",
-              "RelativeToolTip": "K21CNT2_2110900055_DATN\\Areas\\Admin\\Views\\AdminProducts\\Delete.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAhwCUAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-27T08:05:33.097Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Role.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\Models\\Role.cs",
-              "RelativeDocumentMoniker": "K21CNT2_2110900055_DATN\\Models\\Role.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\Models\\Role.cs",
-              "RelativeToolTip": "K21CNT2_2110900055_DATN\\Models\\Role.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T08:03:31.775Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AdminCustomersController.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\Areas\\Admin\\Controllers\\AdminCustomersController.cs",
-              "RelativeDocumentMoniker": "K21CNT2_2110900055_DATN\\Areas\\Admin\\Controllers\\AdminCustomersController.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\Areas\\Admin\\Controllers\\AdminCustomersController.cs",
-              "RelativeToolTip": "K21CNT2_2110900055_DATN\\Areas\\Admin\\Controllers\\AdminCustomersController.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T08:01:26.148Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 0,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\Models\\Product.cs",
               "RelativeDocumentMoniker": "K21CNT2_2110900055_DATN\\Models\\Product.cs",
               "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\Models\\Product.cs",
               "RelativeToolTip": "K21CNT2_2110900055_DATN\\Models\\Product.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAA3wBEAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T07:08:00.028Z",
+              "WhenOpened": "2025-03-04T07:39:46.094Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\Areas\\Admin\\Views\\AdminProducts\\Create.cshtml",
-              "RelativeDocumentMoniker": "K21CNT2_2110900055_DATN\\Areas\\Admin\\Views\\AdminProducts\\Create.cshtml",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\Areas\\Admin\\Views\\AdminProducts\\Create.cshtml",
-              "RelativeToolTip": "K21CNT2_2110900055_DATN\\Areas\\Admin\\Views\\AdminProducts\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA4AAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\wwwroot\\assets\\css\\style.css",
+              "RelativeDocumentMoniker": "K21CNT2_2110900055_DATN\\wwwroot\\assets\\css\\style.css",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\wwwroot\\assets\\css\\style.css",
+              "RelativeToolTip": "K21CNT2_2110900055_DATN\\wwwroot\\assets\\css\\style.css",
+              "ViewState": "AgIAADtEAAAAAAAAAAAAwE9EAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-04T00:39:33.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "K21CNT2_2110900055_DATN\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "K21CNT2_2110900055_DATN\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-04T00:39:04.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_FooterPartialView.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\Views\\Shared\\_FooterPartialView.cshtml",
+              "RelativeDocumentMoniker": "K21CNT2_2110900055_DATN\\Views\\Shared\\_FooterPartialView.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\Views\\Shared\\_FooterPartialView.cshtml",
+              "RelativeToolTip": "K21CNT2_2110900055_DATN\\Views\\Shared\\_FooterPartialView.cshtml",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAHMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-27T03:34:28.462Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-03T14:39:45.83Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Utilities.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\Helper\\Utilities.cs",
-              "RelativeDocumentMoniker": "K21CNT2_2110900055_DATN\\Helper\\Utilities.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\Helper\\Utilities.cs",
-              "RelativeToolTip": "K21CNT2_2110900055_DATN\\Helper\\Utilities.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAkAAAAhAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "K21CNT2_2110900055_DATN\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "K21CNT2_2110900055_DATN\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAswFYAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T09:11:45.796Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-03T13:42:36.016Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "IdentityExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\Extension\\IdentityExtensions.cs",
-              "RelativeDocumentMoniker": "K21CNT2_2110900055_DATN\\Extension\\IdentityExtensions.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\Extension\\IdentityExtensions.cs",
-              "RelativeToolTip": "K21CNT2_2110900055_DATN\\Extension\\IdentityExtensions.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T08:59:51.336Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "HashMD5.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\Extension\\HashMD5.cs",
-              "RelativeDocumentMoniker": "K21CNT2_2110900055_DATN\\Extension\\HashMD5.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\Extension\\HashMD5.cs",
-              "RelativeToolTip": "K21CNT2_2110900055_DATN\\Extension\\HashMD5.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T08:51:45.428Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Extension.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\Extension\\Extension.cs",
-              "RelativeDocumentMoniker": "K21CNT2_2110900055_DATN\\Extension\\Extension.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\Extension\\Extension.cs",
-              "RelativeToolTip": "K21CNT2_2110900055_DATN\\Extension\\Extension.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAYwCgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T08:41:14.133Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "CacheKeys.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\Enums\\CacheKeys.cs",
-              "RelativeDocumentMoniker": "K21CNT2_2110900055_DATN\\Enums\\CacheKeys.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\Enums\\CacheKeys.cs",
-              "RelativeToolTip": "K21CNT2_2110900055_DATN\\Enums\\CacheKeys.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T08:32:33.173Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\Areas\\Admin\\Views\\AdminProducts\\Index.cshtml",
-              "RelativeDocumentMoniker": "K21CNT2_2110900055_DATN\\Areas\\Admin\\Views\\AdminProducts\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\Areas\\Admin\\Views\\AdminProducts\\Index.cshtml",
-              "RelativeToolTip": "K21CNT2_2110900055_DATN\\Areas\\Admin\\Views\\AdminProducts\\Index.cshtml",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAAABkAAAA+AAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "_HeaderPartialView.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\Views\\Shared\\_HeaderPartialView.cshtml",
+              "RelativeDocumentMoniker": "K21CNT2_2110900055_DATN\\Views\\Shared\\_HeaderPartialView.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\Views\\Shared\\_HeaderPartialView.cshtml",
+              "RelativeToolTip": "K21CNT2_2110900055_DATN\\Views\\Shared\\_HeaderPartialView.cshtml",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAHAAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-26T07:22:01.538Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\Areas\\Admin\\Views\\AdminBlogs\\Index.cshtml",
-              "RelativeDocumentMoniker": "K21CNT2_2110900055_DATN\\Areas\\Admin\\Views\\AdminBlogs\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\Areas\\Admin\\Views\\AdminBlogs\\Index.cshtml",
-              "RelativeToolTip": "K21CNT2_2110900055_DATN\\Areas\\Admin\\Views\\AdminBlogs\\Index.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-26T07:12:08.342Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "AdminBlogsController.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\Areas\\Admin\\Controllers\\AdminBlogsController.cs",
-              "RelativeDocumentMoniker": "K21CNT2_2110900055_DATN\\Areas\\Admin\\Controllers\\AdminBlogsController.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\Areas\\Admin\\Controllers\\AdminBlogsController.cs",
-              "RelativeToolTip": "K21CNT2_2110900055_DATN\\Areas\\Admin\\Controllers\\AdminBlogsController.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAYwCMAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T07:07:04.928Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-03T09:42:53.713Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "AdminProductsController.cs",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\Areas\\Admin\\Controllers\\AdminProductsController.cs",
-              "RelativeDocumentMoniker": "K21CNT2_2110900055_DATN\\Areas\\Admin\\Controllers\\AdminProductsController.cs",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\Areas\\Admin\\Controllers\\AdminProductsController.cs",
-              "RelativeToolTip": "K21CNT2_2110900055_DATN\\Areas\\Admin\\Controllers\\AdminProductsController.cs",
-              "ViewState": "AgIAAEcAAAAAAAAAAAAYwFQAAAAJAAAAAAAAAA==",
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "K21CNT2_2110900055_DATN\\Models\\Account.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\Models\\Account.cs",
+              "RelativeToolTip": "K21CNT2_2110900055_DATN\\Models\\Account.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAxwBMAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T08:10:26.712Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "K21CNT2_2110900055_DATN\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "K21CNT2_2110900055_DATN\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-25T07:46:35.186Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "_SideNavPartialView.cshtml",
-              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\Areas\\Admin\\Views\\Shared\\_SideNavPartialView.cshtml",
-              "RelativeDocumentMoniker": "K21CNT2_2110900055_DATN\\Areas\\Admin\\Views\\Shared\\_SideNavPartialView.cshtml",
-              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\Areas\\Admin\\Views\\Shared\\_SideNavPartialView.cshtml",
-              "RelativeToolTip": "K21CNT2_2110900055_DATN\\Areas\\Admin\\Views\\Shared\\_SideNavPartialView.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-25T03:53:56.041Z"
+              "WhenOpened": "2025-03-03T07:18:05.861Z"
             }
           ]
         },
