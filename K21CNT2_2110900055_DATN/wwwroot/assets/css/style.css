@@ -18495,23 +18495,25 @@ blockquote .inner-content .user-name:before {
   height: 370px;
 }
 .breadcrumb-heading {
-  font-size: 36px;
+    font-size: 36px;
+    color: white;
 }
 .breadcrumb-item {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
-  height: 100%;
+    
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    height: 100%;
 }
 .breadcrumb-item ul li {
   display: inline-block;
@@ -18574,6 +18576,7 @@ blockquote .inner-content .user-name:before {
       -ms-flex-align: center;
           align-items: center;
   text-align: center;
+
 }
 .intro-content .title {
   font-size: 30px;

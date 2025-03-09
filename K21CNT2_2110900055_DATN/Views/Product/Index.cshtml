@@ -1,6 +1,7 @@
 ﻿@using PagedList.Core.Mvc
 @model PagedList.Core.IPagedList<K21CNT2_2110900055_DATN.Models.Product>
 
+
 @{
     ViewData["Title"] = "Product Index" + ViewBag.CurrentPage;
     Layout = "~/Views/Shared/_Layout.cshtml";
@@ -297,7 +298,7 @@
                                                     <div class="product-add-action">
                                                         <ul>
                                                             <li>
-                                                                <a href="cart.html">
+                                                                <a href="javascript:void(0);" class="quick-add-to-cart" data-product-id="@item.ProductId">
                                                                     <i class="pe-7s-cart"></i>
                                                                 </a>
                                                             </li>
@@ -351,7 +352,7 @@
                                                     <div class="product-add-action">
                                                         <ul>
                                                             <li>
-                                                                <a href="cart.html">
+                                                                <a href="javascript:void(0);" class="quick-add-to-cart" data-product-id="@item.ProductId">
                                                                     <i class="pe-7s-cart"></i>
                                                                 </a>
                                                             </li>
@@ -401,3 +402,60 @@
     </div>
 </main>
 <!-- Main Content Area End Here -->
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+            $(".quick-add-to-cart").click(function () {
+                var productid = $(this).data("product-id"); // Lấy ID sản phẩm
+                var soLuong = 1; // Mặc định thêm 1 sản phẩm
+
+                if (!productid) {
+                    alert("Sản phẩm không hợp lệ.");
+                    return;
+                }
+
+                $.ajax({
+                    url: '/api/cart/add',
+                    type: "POST",
+                    dataType: "json",
+                    data: {
+                        productID: productid,
+                        amount: soLuong
+                    },
+                    success: function (response) {
+                        if (response.success) {
+                            updateCartUI(); // Cập nhật số lượng hiển thị ngay lập tức
+                            showToast("Sản phẩm đã được thêm vào giỏ hàng!");
+
+                            // Đợi 1 giây rồi reload trang
+                            setTimeout(function () {
+                                location.reload();
+                            }, 1000);
+                        } else {
+                            alert("Không thể thêm sản phẩm vào giỏ hàng.");
+                        }
+                    },
+                    error: function (xhr) {
+                        console.error("Lỗi khi thêm sản phẩm vào giỏ hàng:", xhr);
+                        alert("Có lỗi xảy ra: " + xhr.responseText);
+                    }
+                });
+            });
+
+            // Cập nhật số sản phẩm trong giỏ hàng mà không cần reload
+            function updateCartUI() {
+                $("#miniCart").load("/AjaxContent/HeaderCart");
+                $("#numberCart").load("/AjaxContent/NumberCart");
+            }
+
+            // Hiển thị thông báo nhỏ (toast)
+            function showToast(message) {
+                var toast = $("<div class='toast-message'>" + message + "</div>");
+                $("body").append(toast);
+                toast.fadeIn(400).delay(1000).fadeOut(400, function () {
+                    $(this).remove();
+                });
+            }
+        });
+    </script>
+}

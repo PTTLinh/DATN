@@ -363,6 +363,14 @@ wwwroot\assets\js\vendor\jquery-migrate-3.3.0.min.js
 wwwroot\assets\js\vendor\modernizr-3.11.2.min.js
 wwwroot\css\site.css
 wwwroot\favicon.ico
+wwwroot\images\anh\about.jpg
+wwwroot\images\anh\about_1.jpg
+wwwroot\images\anh\about_2.jpg
+wwwroot\images\anh\about_3.jpg
+wwwroot\images\anh\about_4.jpg
+wwwroot\images\anh\about_adidas.mp4
+wwwroot\images\anh\dangki.jpg
+wwwroot\images\anh\sp.jpg
 wwwroot\images\blogs\adidas-ra-mắt-predator-25--79f2c293.jpg
 wwwroot\images\blogs\adidas-ra-mắt-ultraboost--efcaf2c8.jpg
 wwwroot\images\blogs\blog-1.jpg

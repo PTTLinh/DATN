@@ -86,11 +86,14 @@
                                 <ul class="quantity-with-btn pb-7">
                                     <li class="quantity">
                                         <div class="cart-plus-minus">
-                                            <input class="cart-plus-minus-box" value="1" type="text">
+                                            <input id="txtsoLuong" name="txtsoLuong" class="cart-plus-minus-box" value="1" type="text">
                                         </div>
                                     </li>
-                                    <li class="add-to-cart">
-                                        <a class="btn btn-custom-size lg-size btn-primary btn-secondary-hover rounded-0" href="cart.html">Add to cart</a>
+                                    <li>
+                                        <input type="hidden" id="ProductId" asp-for="ProductId" />  <!-- Đưa ProductId ra ngoài -->
+                                        <button type="button" class="btn btn-custom-size lg-size btn-primary btn-secondary-hover rounded-0 add-to-cart">
+                                            Thêm vào giỏ hàng
+                                        </button>
                                     </li>
                                 </ul>
                                 <div class="product-category text-matterhorn pb-2">
@@ -101,7 +104,6 @@
                                                 @Model.Category.CategoryName
                                             </a>
                                         </li>
-                                       
                                     </ul>
                                 </div>
                             </div>
@@ -381,3 +383,54 @@
     </div>
 </main>
 <!-- Main Content Area End Here  -->
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+            $(".add-to-cart").click(function () {
+                var productid = $("#ProductId").val();
+                var soLuong = parseInt($("#txtsoLuong").val()) || 1; // Đảm bảo số lượng hợp lệ
+
+                if (!productid) {
+                    alert("Sản phẩm không hợp lệ.");
+                    return;
+                }
+
+                $.ajax({
+                    url: '/api/cart/add',
+                    type: "POST",
+                    dataType: "json",
+                    data: {
+                        productID: productid,
+                        amount: soLuong
+                    },
+                    success: function (response) {
+                        loadHeaderCart(); // Cập nhật giỏ hàng
+                        //showToast("Sản phẩm đã được thêm vào giỏ hàng!");
+                        setTimeout(function () {
+                            location.reload(); // Reload trang sau 1 giây để cập nhật số lượng
+                        }, 1000);
+                    },
+                    error: function (xhr) {
+                        console.error("Lỗi khi thêm sản phẩm vào giỏ hàng:", xhr);
+                        alert("Có lỗi xảy ra: " + xhr.responseText);
+                    }
+                });
+            });
+
+            // Hàm cập nhật giỏ hàng
+            function loadHeaderCart() {
+                $("#miniCart").load("/AjaxContent/HeaderCart");
+                $("#numberCart").load("/AjaxContent/NumberCart");
+            }
+
+            // Hàm hiển thị thông báo nhỏ (toast)
+            function showToast(message) {
+                var toast = $("<div class='toast-message'>" + message + "</div>");
+                $("body").append(toast);
+                toast.fadeIn(400).delay(1000).fadeOut(400, function () {
+                    $(this).remove();
+                });
+            }
+        });
+    </script>
+}

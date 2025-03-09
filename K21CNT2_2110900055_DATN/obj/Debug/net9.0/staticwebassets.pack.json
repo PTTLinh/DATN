@@ -969,6 +969,38 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\wwwroot\\images\\anh\\about.jpg",
+      "PackagePath": "staticwebassets\\images\\anh\\about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\wwwroot\\images\\anh\\about_1.jpg",
+      "PackagePath": "staticwebassets\\images\\anh\\about_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\wwwroot\\images\\anh\\about_2.jpg",
+      "PackagePath": "staticwebassets\\images\\anh\\about_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\wwwroot\\images\\anh\\about_3.jpg",
+      "PackagePath": "staticwebassets\\images\\anh\\about_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\wwwroot\\images\\anh\\about_4.jpg",
+      "PackagePath": "staticwebassets\\images\\anh\\about_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\wwwroot\\images\\anh\\about_adidas.mp4",
+      "PackagePath": "staticwebassets\\images\\anh\\about_adidas.mp4"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\wwwroot\\images\\anh\\dangki.jpg",
+      "PackagePath": "staticwebassets\\images\\anh\\dangki.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\wwwroot\\images\\anh\\sp.jpg",
+      "PackagePath": "staticwebassets\\images\\anh\\sp.jpg"
+    },
+    {
       "Id": "C:\\Users\\ADMIN\\source\\repos\\K21CNT2_2110900055_DATN\\K21CNT2_2110900055_DATN\\wwwroot\\images\\blogs\\adidas-ra-mắt-predator-25--79f2c293.jpg",
       "PackagePath": "staticwebassets\\images\\blogs\\adidas-ra-mắt-predator-25--79f2c293.jpg"
     },
